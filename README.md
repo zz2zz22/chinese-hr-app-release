@@ -1,0 +1,1 @@
+# chinese-hr-app-release
